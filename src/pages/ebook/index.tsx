@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import type { Ebook } from "../../types/EbookType";
 import EbookApi from "../../api/EbookApi";
 import EBookItem from "../../components/EBook/EBookItem";
