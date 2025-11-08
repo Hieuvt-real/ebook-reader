@@ -5,7 +5,7 @@ Run:
   npm run dev
 
 Link deploy:
-  https://ebook-reader-i26p.vercel.app/ebooks
+  [ebook-reader-eight.vercel.app](https://ebook-reader-eight.vercel.app/ebooks)
 
 Demo
   screen 1:list ebook (mock data)
